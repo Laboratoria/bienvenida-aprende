@@ -23,13 +23,15 @@ era digital. Conócelas en esta unidad.
 En este nivel te ayudaremos a aterrizar una hipótesis para que puedas
 experimentar en tu trabajo diario.
 
-### Unidad 04: [Contenido Adicional Recomendado](04-evaluacion-del-curso)
+### Unidad 04: [Evaluación del curso](04-evaluacion-del-curso)
+
+En esta sección deberás evaluar tu paso por el curso.
+
+### Unidad 05: [Recursos Adicionales](05-recursos-adicionales)
 
 ¿Quieres seguir aprendiendo? Encuentra el material de apoyo y artículos
 relacionados de los casos vistos en el curso.
 
-### Unidad 05: [Evaluación del curso](05-recursos-adicionales)
 
-En esta sección deberás evaluar tu paso por el curso.
 
 ***

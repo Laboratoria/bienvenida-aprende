@@ -1,4 +1,4 @@
-# Artículos Relacionados
+# Escucha uno de nuestros podcasts
 
 * Tipo: `lectura`
 * Formato: `self-paced`

@@ -1,4 +1,4 @@
-# Podcasts recomendados
+# Escucha nuestros podcasts
 
 * Tipo: `video`
 * Formato: `self-paced`
