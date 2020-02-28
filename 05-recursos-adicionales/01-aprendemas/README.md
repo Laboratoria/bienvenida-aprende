@@ -1,4 +1,4 @@
-# Escucha uno de nuestros podcasts
+# Sigue aprendiendo
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,7 +6,7 @@
 
 ***
 
-## ¿Quiere seguir aprendiendo?
+## ¿Quieres seguir aprendiendo?
 
 Encuentra más información sobre distintos temas de intéres en nuestra sección aprende más
 

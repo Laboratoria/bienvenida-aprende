@@ -18,7 +18,7 @@ En Laboratoria creemos que existen 4 estrategias para que las empresas
 y nuestro trabajo tenga  la capacidad de transformarse y ganar en esta nueva
 era digital. Conócelas en esta unidad.
 
-### Unidad 03: [Experimentando desde mi rol](03-nivel-3-experimento-desde-mi-rol)
+### Unidad 03: [Experimentando desde mi trabajo diario](03-nivel-3-experimento-desde-mi-rol)
 
 En este nivel te ayudaremos a aterrizar una hipótesis para que puedas
 experimentar en tu trabajo diario.
