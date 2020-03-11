@@ -8,7 +8,7 @@
 
 Aplica tus nuevos conocimientos de cómo experimentar, aterrizando una hipótesis y experimento que quisieras comprobar dentro de tu área o tu rol en la empresa.
 
-[Encuesta](https://laboratoria.typeform.com/to/QGfLUk?uid=xxxxx&email=xxxxx&name=xxxxx&cohortid=xxxxx&courseid=xxxxx&unitid=xxxxx&partid=xxxxx&fname=xxxxx)
+[¿Cuál es tu hipótesis y experimento?](https://laboratoria.typeform.com/to/QGfLUk?uid=xxxxx&email=xxxxx&name=xxxxx&cohortid=xxxxx&courseid=xxxxx&unitid=xxxxx&partid=xxxxx&fname=xxxxx)
 
 Te recordamos algunos recursos que aprendimos antes, que pueden ayudarte:
 
