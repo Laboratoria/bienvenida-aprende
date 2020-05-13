@@ -12,3 +12,6 @@ incrementar tu conocimiento o mejorar alguna habilidad que ya tienes ahora o
 talvez quieres explorar nuevo terreno y desarrollar una habilidad totalmente
 nueva para enfrentar un nuevo reto, eso no importa! es el mismo proceso continuo
 de aprendizaje.
+
+
+Entiendo mi motivación más profunda para aprender y me hago dueña/o. ¿Cómo?

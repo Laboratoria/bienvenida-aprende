@@ -23,8 +23,8 @@ desarrollar habilidades por su cuenta.
 
 Así que tu reto es:
 
-1. Escoge una habilidad que quieras reforzar en las próximas semanas.
+1. Escoge una habilidad que quieras reforzar.
 
 2. Define cómo la practicarás en el día a día.
 
-3. Define cómo comprobarás que estás reforzandola o mejorandola.
+3. Define cómo comprobarás que estás reforzándola o mejorándola.

@@ -15,3 +15,9 @@ Luego de ver este video, pregúntate lo siguiente:
 Rétate y aterriza un feedback que le quieras dar a un compañero, y hazlo!
 
 ***
+
+## Venta de Johari
+
+Esta herramienta te ayudará a saber la percepción que otros tienen de ti.
+
+[Ventana de Johari](https://vimeo.com/368373693)
