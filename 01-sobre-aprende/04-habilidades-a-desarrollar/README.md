@@ -15,7 +15,7 @@ alta incertidumbre para descubrir lo nuevo.
 
 En este gráfico podrás observar varias habilidades que intentaremos desarrollar
 en ti:
-[habilidades a desarrollar](https://user-images.githubusercontent.com/42012372/81221399-65989e80-8fa8-11ea-8d01-4b072523b4c4.png)
+[habilidades a desarrollar](https://user-images.githubusercontent.com/42012372/81232054-d1373780-8fb9-11ea-9f09-71a5b1efe90f.png)
 
 Un punto importante de la nueva cultura de trabajo es que los individuos son
 dueños de su proceso de aprendizaje, en donde puede reconocer y apuntar a
