@@ -2,7 +2,7 @@
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `5min`
+* Duración: `17min`
 
 ***
 En este nuevo contexto donde la digitalización, el ritmo vertiginoso de cambio

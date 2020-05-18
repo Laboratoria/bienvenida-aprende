@@ -2,7 +2,7 @@
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `5min`
+* Duración: `10min`
 
 ***
 ¿Cuál es la visión de aprendizaje detrás las experiencias que diseñamos en
