@@ -23,8 +23,8 @@ con su vertiginoso ritmo de cambio, es el  **aprender a aprender** y
 hacerlo **continuamente**.
 
 * **Tener una mentalidad de crecimiento** significa que puedes desarrollar e
-incrementar tu inteligencia y todas tus habilidades siempre, y que no tienes
-miedo a los retos que se te plantean.
+incrementar tu inteligencia y todas tus habilidades siempre. ¡Hazlo! y si te da
+miedo, hazlo con miedo.
 
 * La mejor manera de **aprender se logra con esfuerzo**, y por ello estás
 **dispuesta/o a cometer errores** en el proceso.
