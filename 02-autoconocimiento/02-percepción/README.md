@@ -13,8 +13,8 @@ que no son del todo conscientes. Veamos un pequeño acertijo que lo demuestra.
 [Acertijo - Sesgos Cognitivos](https://vimeo.com/368066649)
 
 Todos nosotros desarrollamos sesgos cognitivos, es decir, impulsores no
-conscientes que influyen en la forma de percibir las cosas y de tomar decisiones
-tanto en un contexto profesional cómo personal.
+conscientes que influyen en nuestra forma de percibir el mundo y tomar
+decisiones en contextos profesionales y personales.
 
 [Percepción](https://vimeo.com/368066649)
 
