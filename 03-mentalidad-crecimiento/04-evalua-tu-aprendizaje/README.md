@@ -15,8 +15,8 @@ siguiente formulario con un texto explicativo de cómo lo harías.
 
 [Explícalo a un/a amigo/a](https://laboratoria.typeform.com/to/NgdWwj?uid=xxxxx&email=xxxxx&name=xxxxx&cohortid=xxxxx&courseid=xxxxx&unitid=xxxxx&partid=xxxxx&fname=xxxxx&empresa=Brein)
 
-## ¿Quieres despejar dudas?
+## ¿Tienes reflexiones que quieres compartir o quieres despejar dudas?
 
-La comunidad de estudiantes de Brein es una excelente herramienta para
-resolver dudas en conjunto y recibir feedback de nuestros aprendizajes. Recuerda
-compartir tus experiencias y/o dudas sobre esta sección.
+El aprendizaje colectivo potencia nuestro propio aprendizaje y reflexiones.
+Usa nustra funcionalidad de comentarios y reflexiona junto a la comunidad
+de estudiantes de Aprende y coaches. 
