@@ -1,4 +1,4 @@
-# Habilidades a desarrollar
+# El aprendizaje cómo motor  
 
 * Tipo: `lectura`
 * Formato: `self-paced`

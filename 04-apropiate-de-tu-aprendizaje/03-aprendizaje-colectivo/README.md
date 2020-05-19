@@ -1,4 +1,4 @@
-# Forma parte de la Comunidad
+# El aprendizaje colectivo
 
 * Tipo: `lectura`
 * Formato: `self-paced`

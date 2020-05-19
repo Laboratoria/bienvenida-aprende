@@ -1,4 +1,4 @@
-# Queremos saber más de ti
+# Aprende más de ti
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,6 +6,6 @@
 
 ***
 
-Conocete mejor y llena este formulario 
+Conocete mejor y llena este formulario
 
 [Encuesta base](https://laboratoria.typeform.com/to/dsWoR0?uid=xxxxx&email=xxxxx&name=xxxxx&cohortid=xxxxx&courseid=xxxxx&unitid=xxxxx&partid=xxxxx)
