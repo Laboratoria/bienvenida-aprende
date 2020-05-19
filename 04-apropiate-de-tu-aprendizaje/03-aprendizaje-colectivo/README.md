@@ -2,7 +2,7 @@
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `2min`
+* Duración: `5min`
 
 ***
 Una de las claves de la evolución humana ha sido el poder del aprendizaje
@@ -21,4 +21,4 @@ A lo largo de tu proceso de aprendizaje siempre ten en cuenta el compartir con
 tu equipo y la comunidad de estudiantes de aprende tus dudas,reflexiones,
 iniciativas y aprendizajes. Al final de cada una de las secciones encontrarás
 una area de comentarios para compartir y en los retos aplicados podrás
-descargarte tus respuestas para compartirlas y pedir retroalimentación. 
+descargarte tus respuestas para compartirlas y pedir retroalimentación.
