@@ -5,12 +5,20 @@
 * Duración: `2min`
 
 ***
-La mejor forma de aprender es cuestionarse y reflexionar sobre lo que estamos
-intentando aprender, 
-experimentamos. El objetivo de la comunidad es que puedas compartir tus
-reflexiones y aprendizajes, y así obtener distintos puntos de vista que
-enriquecerán tu visión y comprensión del tema.
+Una de las claves de la evolución humana ha sido el poder del aprendizaje
+colectivo, al utilizar el lenguaje para trabajar en conjunto, solucionar
+problemas y transmitir conocimientos de unos a otros.
 
-Te invitamos a compartir tus dudas, reflexiones, aprendizajes, y soluciones en
-nuestra comunidad, para que obtengas un aprendizaje más profundo y colectivo que
-beneficie tu proceso de crecimiento.
+[Historia de aprendizaje colectivo](https://youtu.be/ppIzSaP2jWI)
+
+La mejor forma de aprender es cuestionarse y reflexionar incluyendo otros puntos
+de vista que enriquecen nuestra comprensión de los retos que abordamos y
+nuestras soluciones. Es por esto que la diversidad y el aprendizaje colectivo
+hace que los productos y habilidades que desarrollemos sean de mayor valor e
+impacto.
+
+A lo largo de tu proceso de aprendizaje siempre ten en cuenta el compartir con
+tu equipo y la comunidad de estudiantes de aprende tus dudas,reflexiones,
+iniciativas y aprendizajes. Al final de cada una de las secciones encontrarás
+una area de comentarios para compartir y en los retos aplicados podrás
+descargarte tus respuestas para compartirlas y pedir retroalimentación. 
