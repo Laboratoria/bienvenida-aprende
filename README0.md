@@ -16,4 +16,4 @@ continua a lo largo de nuestra vida personal y profesional
 ### Unidad 03: [Mentalidad de crecimiento](03-mentalidad-crecimiento)
 
 
-### Unidad 04: [Aprópiate de tu aprendizaje](04-aprópiate-de-tu-aprendizaje)
+### Unidad 04: [Aprópiate de tu aprendizaje](04-apropiate-de-tu-aprendizaje)
