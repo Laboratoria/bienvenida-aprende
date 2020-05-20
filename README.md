@@ -1,6 +1,6 @@
 # Bienvenidas/os a Aprende
 
-
+Descripción del curso
 
 ## Syllabus
 
