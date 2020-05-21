@@ -21,8 +21,8 @@ con nuestros equipos.
 En este gráfico podrás observar varias habilidades que intentaremos ayudarte
 a despertar o reforzar en tus experiencias de aprendizaje:
 
-[habilidades a desarrollar](https://user-images.githubusercontent.com/42012372/81232054-d1373780-8fb9-11ea-9f09-71a5b1efe90f.png)
+![habilidades](https://user-images.githubusercontent.com/42012372/81232054-d1373780-8fb9-11ea-9f09-71a5b1efe90f.png)
 
 Empieza a apropiarte de tu proceso de aprendizaje:
 
-¿Cuál son las habilidades que quisieras desarrollar en tu siguiente reto?
+¿Cuáles son las habilidades que quisieras desarrollar en tu siguiente reto?

@@ -16,10 +16,6 @@ llamar el garabato de aprendizaje, pues no es un camino del todo lineal).
 mejorar alguna habilidad que ya tienes ahora o talvez explorar nuevo terreno y
 desarrollar una habilidad totalmente nueva para enfrentar un nuevo reto.
 
-[Ciclo de aprendizaje](https://user-images.githubusercontent.com/36275285/82246084-aded8000-9909-11ea-8895-8e96712f81cf.png
+![Ciclo de aprendizaje](https://user-images.githubusercontent.com/36275285/82513666-46862a80-9ad9-11ea-8237-1f7a27cf4b71.png)
 
-Es hora de apropiarte de tu proceso de aprendizaje:
-
-  1. Escoge una habilidad que quisieras reforzar o aprender
-  2. Define cómo la practicarás en el día a día.
-  3. Define cómo comprobarás que estás reforzándola o mejorándola.
+**¡Es hora de apropiarte de tu proceso de aprendizaje!**

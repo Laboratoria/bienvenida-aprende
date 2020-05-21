@@ -14,7 +14,7 @@ Los principios que debes tener en mente a lo largo de tus experiencias
 de aprendizaje con nosotros son:
 
 **Apropiarte de tu propio Aprendizaje**
-- ¿Cual es la actitud con la que afrontas tus procesos de aprendizaje?
+- ¿Cuál es la actitud con la que afrontas tus procesos de aprendizaje?
 - ¿Cómo te aseguras de reflexionar y entender qué es lo que estas tratando de
 aprender?
 - ¿Cómo vas a intentar aprender esta nueva habilidad?

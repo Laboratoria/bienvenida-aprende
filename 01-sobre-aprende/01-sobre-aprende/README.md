@@ -1,4 +1,4 @@
-# Sobre Aprende
+# ¿Qué es Aprende?
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -32,15 +32,14 @@ por cada uno de tus cursos.
 
 ## Otras maneras de interactuar con nosotros
 
-En Laboratoria contamos con diferentes recursos que pueden ayudarte a conectarte
+En Laboratoria contamos con diferentes recursos que pueden ayudarte a conectar
 con la organización.
 
 * **Contrata talento diverso de nuestro bootcamp** de Front-end Development o UX
 Design que ya tienen el mindset y manejan las herramientas para integrarse a
 equipos digitales a través de nuestra [App de Talento](https://app.talento.laboratoria.la/login)
-* Encuentra más información acerca de nuestros
-**programas de entrenamiento corporativo** para desarrollar una cultura de
-aprendizaje y mejora continua en todas las áreas de tu empresa
+* Encuentra más información acerca de nuestros **programas de entrenamiento corporativo**
+para desarrollar una cultura de aprendizaje y mejora continua en todas las áreas de tu empresa
 [Laboratoria for Business](https://empresas.laboratoria.la/corporate-training)
 * **Síguenos** en nuestro [Hub de Contenidos](https://hub.laboratoria.la/)
 * **Conéctate con nosotros** a través de [Facebook](https://www.facebook.com/laboratoriala/)

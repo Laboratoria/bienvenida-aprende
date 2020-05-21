@@ -6,7 +6,7 @@
 
 ***
 En este nuevo contexto donde la digitalización, el ritmo vertiginoso de cambio
-y la incertidumbre son la nueva regla, el talento en las orgzanizaciones debe
+y la incertidumbre son la nueva regla, el talento en las organizaciones debe
 apender nuevas habilidades para afrontarlo.
 
 [¿Cuáles son las habilidades más importantes?](https://vimeo.com/386060243)

@@ -5,14 +5,7 @@
 * Duración: `5min`
 
 ***
-La base del aprendizaje continuo es el conocernos mejor para lograr una mejora
-continua a lo largo de nuestra vida personal y profesional. Entendamos porqué
-esto es aún más importante en la nueva era digital. Veamos un pequeño de Michio
-Kaku explicando el porqué. 
-
-[¿Por qué autoconocimiento?](https://youtu.be/Whl-tDAh62M)
-
-Y en una era donde prima la colaboración en equipo. ¿Qué papel juega el
+En una era donde prima la colaboración en equipo. ¿Qué papel juega el
 autoconocimiento?
 
 [Autoconocimiento & trabajo en equipo](https://vimeo.com/368335699)

@@ -14,7 +14,7 @@
 
 ## El poder de creer
 
-![Video sobre la Mentalidad de Crecimiento](http://img.youtube.com/vi/pN34FNbOKXc/0.jpg)](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)
+[Video sobre la Mentalidad de Crecimiento](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)
 
 ## Conceptos importantes que debes recordar
 
