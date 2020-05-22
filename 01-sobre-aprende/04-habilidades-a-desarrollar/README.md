@@ -11,7 +11,7 @@ habilidades que le permitirán resolver desafíos complejos de manera
 colaborativa en un contexto de alta incertidumbre con un ritmo de
 cambio rápido y continuo.
 
-La capacidad de abordar estos nuevos retos no dependerán unicamente del expertise  
+La capacidad de abordar estos nuevos retos no dependerá únicamente del "expertise"  
 o habilidades "duras" que necesitemos desarrollar para resolverlo, pero sobre
 todo del desarrollo de habilidades que nos permitan fortalecer nuestra capacidad
 de "aprender a aprender". Una capacidad que nos permite entender mejor lo que

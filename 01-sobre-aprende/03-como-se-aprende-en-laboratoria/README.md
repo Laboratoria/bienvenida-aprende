@@ -5,8 +5,6 @@
 * Duración: `10min`
 
 ***
-¿Cuál es la visión de aprendizaje detrás las experiencias que diseñamos en
-Laboratoria?
 
 [Modelo de Laboratoria](https://vimeo.com/412540970)
 

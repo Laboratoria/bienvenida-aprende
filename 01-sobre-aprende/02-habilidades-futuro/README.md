@@ -5,14 +5,12 @@
 * Duración: `17min`
 
 ***
-En este nuevo contexto donde la digitalización, el ritmo vertiginoso de cambio
-y la incertidumbre son la nueva regla, el talento en las organizaciones debe
-apender nuevas habilidades para afrontarlo.
 
 [¿Cuáles son las habilidades más importantes?](https://vimeo.com/386060243)
 
 Ahora mientras te preguntas ¿Qué rol juego ahora? pregúntate lo siguiente:
 
-1. ¿Cuáles son las habilidades que he estado practicando?
-2. ¿Cómo puedo prepararme mejor para vivir "La era de los Humanos"?
-3. ¿Qué habilidades diferenciadoras poseo actualmente y quiero seguir potenciando para mantenerme vigente?
+1. ¿Qué rol juego y cómo puedo prepararme mejor para vivir “La Era de los Humanos”?
+2. ¿Cuáles son las habilidades que he estado practicando?
+3. ¿Cuáles son las habilidades que quiero aprender o potenciar?
+4. Piensa en 3 acciones que puedes realizar para empezar a potenciar tus habilidades
