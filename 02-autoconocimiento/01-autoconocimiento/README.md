@@ -16,4 +16,5 @@ Luego de ver estos video, pregúntate lo siguiente:
 2. ¿Cuáles son las limitaciones que creo tener hoy?
 3. ¿Qué significa la percepción que tienen otros sobre mí?
 
+
 ***

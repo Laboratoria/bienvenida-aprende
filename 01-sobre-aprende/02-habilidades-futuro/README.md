@@ -6,11 +6,11 @@
 
 ***
 
-[¿Cuáles son las habilidades más importantes?](https://vimeo.com/386060243)
+[¿Cuáles son las habilidades más importantes?](https://vimeo.com/421255025/)
 
-Ahora mientras te preguntas ¿Qué rol juego ahora? pregúntate lo siguiente:
+Luego de ver este video, pregúntate lo siguiente:
 
-1. ¿Qué rol juego y cómo puedo prepararme mejor para vivir “La Era de los Humanos”?
-2. ¿Cuáles son las habilidades que he estado practicando?
-3. ¿Cuáles son las habilidades que quiero aprender o potenciar?
-4. Piensa en 3 acciones que puedes realizar para empezar a potenciar tus habilidades
+1. ¿Qué rol juegas y cómo puedo prepararte mejor para vivir “La Era de los Humanos”?
+2. ¿Cuáles son las habilidades que has estado practicando?
+3. ¿Cuáles son las habilidades que quieres aprender o potenciar?
+4. Piensa en 3 acciones para empezar a potenciar tus habilidades

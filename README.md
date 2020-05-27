@@ -1,6 +1,6 @@
 # Bienvenidas/os a Aprende
 
-Bienvenidas/os a Aprende! 
+
 
 ## Syllabus
 

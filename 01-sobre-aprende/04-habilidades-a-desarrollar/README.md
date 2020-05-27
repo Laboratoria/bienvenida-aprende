@@ -23,6 +23,8 @@ a despertar o reforzar en tus experiencias de aprendizaje:
 
 ![habilidades](https://user-images.githubusercontent.com/42012372/81232054-d1373780-8fb9-11ea-9f09-71a5b1efe90f.png)
 
-Empieza a apropiarte de tu proceso de aprendizaje:
+**Empieza a apropiarte de tu proceso de aprendizaje**
 
-¿Cuáles son las habilidades que quisieras desarrollar en tu siguiente reto?
+Continuamente estamos abordando nuevos retos tanto en lo profesional cómo en
+lo personal
+- ¿Qué habilidad quisieras desarrollar en el siguiente reto al que te enfrentes?
