@@ -1,5 +1,9 @@
-# Bienvenidas/os a Aprende
+# Introducción a Aprende
 
+¡Bievenida/o a Aprende! La plataforma de aprendizaje de Laboratoria donde
+te acompañaremos a dar los primeros pasos en tu camino a serun aprendiz de
+por vida y desarrollar las habilidades básicas para enfrentar esta nueva era
+del conocimiento.
 
 
 ## Syllabus
