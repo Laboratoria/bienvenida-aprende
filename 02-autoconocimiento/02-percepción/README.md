@@ -5,7 +5,7 @@
 * Duración: `5min`
 
 ***
-[Acertijo - Sesgos Cognitivos](https://vimeo.com/368066649)
+[Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
 Todos nosotros desarrollamos sesgos cognitivos, es decir, impulsores no
 conscientes que influyen en nuestra forma de percibir el mundo y tomar
