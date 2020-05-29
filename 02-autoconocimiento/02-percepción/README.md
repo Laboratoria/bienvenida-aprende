@@ -13,6 +13,6 @@
 
 Luego de ver este video, pregúntate lo siguiente:
 
-1. ¿Cuáles son esos estímulos culturales que influencian mi entorno?
-2. ¿Tengo una percepción sobre otras personas?
-3. ¿Conozco cuál es la percepción que tienen otros sobre mí?
+1. ¿Cuáles son esos estímulos culturales que influencian tu entorno?
+2. ¿Tienes una percepción sobre otras personas?
+3. ¿Conoces cuál es la percepción que tienen otros sobre ti?

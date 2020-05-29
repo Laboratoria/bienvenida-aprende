@@ -19,10 +19,9 @@ aprender?
 aprendido?
 
 **El respeto a la individualidad**
-- ¿Cómo hago que esta experiencia se acople a mi forma y ritmo de aprendizaje?
-- ¿Cómo respeto la experiencia individual de aprendizaje del resto de mi equipo
-y aprendemos juntos en el reto que queremos abordar?
+- ¿Cómo hacer que esta experiencia se acople a tu forma y ritmo de aprendizaje?
+- ¿Cómo respetas la experiencia individual de aprendizaje del resto de tu equipo
+y aprenden juntos en el reto que quieren abordar?
 
 **Aprender haciendo**
-- ¿Cómo práctico y aplico lo que estoy tratando de aprender
-para generar nuevos hábitos y comportamientos?
+- ¿Cómo prácticas y aplicas lo que estas tratando de aprender para generar nuevos hábitos y comportamientos?

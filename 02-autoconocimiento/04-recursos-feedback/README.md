@@ -11,8 +11,8 @@ Una de las mejores herramientas para conocerte mejor y saber en qué puedes mejo
 
 Luego de ver este video, pregúntate lo siguiente:
 1. ¿Cuándo un _feedback_ es un regalo?
-2. ¿Haz pedido _feedback_ a tu equipo? ¿Cada cuánto lo haces?
-3. ¿Haz dado _feedback_ a personas de tu equipo?¿Cómo lo estructuraste?
+2. ¿Has pedido _feedback_ a tu equipo? ¿Cada cuánto lo haces?
+3. ¿Has dado _feedback_ a personas de tu equipo?¿Cómo lo estructuraste?
 
 **¡Rétate y pide feedack a tu equipo y personas que te rodean para conocerte mejor!**
 
