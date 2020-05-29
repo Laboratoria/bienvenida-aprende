@@ -5,8 +5,7 @@
 * Duración: `5min`
 
 ***
-En una era donde prima la colaboración en equipo. ¿Qué papel juega el
-autoconocimiento?
+En una era donde prima la colaboración en equipo. ¿Qué papel juega el autoconocimiento?
 
 [Autoconocimiento & trabajo en equipo](https://vimeo.com/368335699)
 

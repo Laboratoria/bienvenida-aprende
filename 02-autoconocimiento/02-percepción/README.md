@@ -7,10 +7,6 @@
 ***
 [Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
-Todos nosotros desarrollamos sesgos cognitivos, es decir, impulsores no
-conscientes que influyen en nuestra forma de percibir el mundo y tomar
-decisiones en contextos profesionales y personales.
-
 [¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
 
 [Percepción](https://vimeo.com/368066649)

@@ -5,8 +5,7 @@
 * Duración: `5min`
 
 ***
-Una de las mejores herramientas para conocernos bien y saber en qué podemos
-mejorar es la retroalimentación de las personas con las que convivimos y trabajamos.
+Una de las mejores herramientas para conocerte mejor y saber en qué puedes mejorar es la retroalimentación de las personas con las que convives y trabajas.
 
 [Feedback](https://vimeo.com/368080166)
 
