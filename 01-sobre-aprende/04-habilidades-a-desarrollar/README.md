@@ -12,7 +12,7 @@ colaborativa en un contexto de alta incertidumbre con un ritmo de
 cambio rápido y continuo.
 
 La capacidad de abordar estos nuevos retos no dependerá únicamente del "expertise"  
-o habilidades "duras" que necesitemos desarrollar para resolverlo, pero sobre
+o habilidades "duras" que necesitemos desarrollar para resolverlo, pero, sobre
 todo del desarrollo de habilidades que nos permitan fortalecer nuestra capacidad
 de "aprender a aprender". Una capacidad que nos permite entender mejor lo que
 estamos intentando resolver, a nosotros mismos y a el aprendizaje colectivo
