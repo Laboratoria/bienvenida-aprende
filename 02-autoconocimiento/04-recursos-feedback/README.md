@@ -6,8 +6,7 @@
 
 ***
 Una de las mejores herramientas para conocernos bien y saber en qué podemos
-mejorar y cómo estamos avanzando en nuestros objetivos de aprendizaje es la
-retroalimentación de las personas con las que convivimos y trabajamos.
+mejorar es la retroalimentación de las personas con las que convivimos y trabajamos.
 
 [Feedback](https://vimeo.com/368080166)
 
