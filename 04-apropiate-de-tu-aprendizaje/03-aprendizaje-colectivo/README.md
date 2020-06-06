@@ -18,7 +18,7 @@ hace que los productos y habilidades que desarrollemos sean de mayor valor e
 impacto.
 
 A lo largo de tu proceso de aprendizaje siempre ten en cuenta el compartir con
-tu equipo y la comunidad de estudiantes de aprende tus dudas,reflexiones,
+tu equipo y la comunidad de estudiantes de aprende tus dudas, reflexiones,
 iniciativas y aprendizajes. Al final de cada una de las secciones encontrarás
 una area de comentarios para compartir y en los retos aplicados podrás
 descargarte tus respuestas para compartirlas y pedir retroalimentación.

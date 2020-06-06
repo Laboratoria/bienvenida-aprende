@@ -20,11 +20,11 @@
 
 * Uno de los principios fundamentales para ganar en esta nueva era digital,
 con su vertiginoso ritmo de cambio, es el  **aprender a aprender** y
-hacerlo **continuamente**.
+hacerlo **continuamente**
 
 * **Tener una mentalidad de crecimiento** significa que puedes desarrollar e
 incrementar tu inteligencia y todas tus habilidades siempre. ¡Hazlo! y si te da
-miedo, hazlo con miedo.
+miedo, hazlo con miedo
 
 * La mejor manera de **aprender se logra con esfuerzo**, y por ello estás
-**dispuesta/o a cometer errores** en el proceso.
+**dispuesta/o a cometer errores** en el proceso

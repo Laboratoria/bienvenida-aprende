@@ -12,14 +12,14 @@ a progresar y culminar el curso:
 
 1. **Organiza tu tiempo:** haz una agenda personal que te permita reservar
 tiempo diariamente para estudiar, incluye también horas de descanso que son
-fundamentales. Sé riguroso con esta planificación y procura atenerte a ella.
+fundamentales. Sé riguroso con esta planificación y procura atenerte a ella
 
 2. **Técnica Pomodoro:** optimiza tu tiempo y la eficiencia mediante el bloqueo
 de 25 minutos de concentración continua. Lee más sobre esto [aquí](https://blog.trello.com/es/tecnica-pomodoro)
 
 3. **Lugar:** por muchas horas que pases estudiando si el ambiente no es el
 adecuado, de poco servirá. Busca un espacio tranquilo y donde no vayas a ser
-interrumpido.
+interrumpido
 
 ## ¡Manos a la obra!
 Usa los siguientes links para agendar espacios de aprendizaje en tu calendario:

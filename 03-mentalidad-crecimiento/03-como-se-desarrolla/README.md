@@ -18,11 +18,11 @@ y te ayudará a identificar cómo mejorar:
 ### Conceptos importantes que debes recordar:
 
 * Cuando el aprendizaje es más difícil, es más profundo y se queda en tu memoria
-más tiempo.
+más tiempo
 * Tratar de resolver un problema antes de que te muestren cómo hacerlo, te
-permitirá luego aprender y entender mejor la solución que te enseñen.
+permitirá luego aprender y entender mejor la solución que te enseñen
 * Cometer errores y corregirlos es lo que te permitirá construir los puentes
-para avanzar en el proceso de aprendizaje.
+para avanzar en el proceso de aprendizaje
 * Aprender a aprender es clave en construir una mentalidad de crecimiento para
 crear productos o servicios que generen valor e impacten a tus clientes y a tu
-negocio.
+negocio
