@@ -30,15 +30,16 @@ por cada uno de tus cursos.
 
 [Laboratoria](https://vimeo.com/345548848)
 
-## Otras maneras de interactuar con nosotros
+## Otras maneras de interactuar con nosotros:
 
 * **Contrata Front-End Developers y UX Designers** con el mindset y  las
 herramientas necesarias para trabajar en contextos de alta incertidumbre y
-listas para integrarse a equipos digitales a través de nuestra [App de Talento](https://app.talento.laboratoria.la/login)
-* Conoce más sobre   nuestros **programas de entrenamiento corporativo**
+listas para integrarse a equipos digitales a través de nuestra [App de Talento](https://bit.ly/3cCNnEj)
+* Conoce más sobre nuestros **programas de entrenamiento corporativo**
 que buscan desarrollar una cultura de aprendizaje y mejora continua en toda la
 organización [Laboratoria for Business](https://empresas.laboratoria.la/corporate-training)
-* **Síguenos nuestro** [Hub de Contenidos](https://hub.laboratoria.la/) y conoce de primera mano nuestras historias y aprendizajes, así como la de nuestros aliados en la región, en el proceso de transformación para navegar en esta nueva era digital
+* **Sígue nuestro** [Hub de Contenidos](https://bit.ly/2BDlBuK) y conoce de primera mano nuestras historias y aprendizajes, así como la de nuestros aliados en la región mientras atravesamos
+el proceso de transformación para navegar en esta nueva era digital.
 * **Conéctate con nosotros** a través de [Facebook](https://www.facebook.com/laboratoriala/)
 , [Twitter](https://twitter.com/Laboratoriala), [Linkedin](https://www.linkedin.com/school/laboratoriala/)
 o [Instagram](https://www.instagram.com/laboratoriala/)

@@ -5,7 +5,8 @@
 * Duración: `5min`
 
 ***
-Una de las mejores herramientas para conocerte mejor y saber en qué puedes mejorar es la retroalimentación de las personas con las que convives y trabajas.
+Una de las mejores herramientas para conocerte mejor y saber cómo estas
+avanzando en tus procesos de aprendizaje es la retroalimentación
 
 [Feedback](https://vimeo.com/368080166)
 
@@ -16,14 +17,10 @@ Luego de ver este video, pregúntate lo siguiente:
 
 **¡Rétate y pide feedack a tu equipo y personas que te rodean para conocerte mejor!**
 
-## Recursos útiles para pedir feedback
+## ¿Quieres llevarlo a la práctica?
 
 1. Cuatro preguntas claves para pedir feedback:
 - ¿Qué hice bien?
 - ¿Qué puedo hacer mejor?
 - ¿Qué debo dejar de hacer?
 - ¿Cuál es mi plan de acción para mejorar?
-
-2. Esta herramienta te ayudará a saber la percepción que otros tienen de ti.
-
-[Ventana de Johari](https://vimeo.com/368373693)

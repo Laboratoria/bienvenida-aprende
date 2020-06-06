@@ -8,9 +8,10 @@
 
 [¿Cuáles son las habilidades más importantes?](https://vimeo.com/421255025/)
 
+Fuente: Cotec - 27 de Abril 2019
+
 Luego de ver este video, pregúntate lo siguiente:
 
 1. ¿Qué rol juegas y cómo puedo prepararte mejor para vivir “La Era de los Humanos”?
 2. ¿Cuáles son las habilidades que has estado practicando?
 3. ¿Cuáles son las habilidades que quieres aprender o potenciar?
-4. Piensa en 3 acciones para empezar a potenciar tus habilidades

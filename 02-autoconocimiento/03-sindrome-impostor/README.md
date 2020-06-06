@@ -11,7 +11,7 @@
 Es un fenómeno psicológico en el que la gente es incapaz de internalizar sus
 logros y sufre un miedo persistente de ser descubierto como un fraude.
 
-A pesar de ser sometidos a pruebas externas en torno a su competencia, aquellos
+A pesar de ser sometidos a pruebas externas de su competencia, aquellos
 con el síndrome permanecen convencidos de que son un fraude y no merecen el
 éxito que han conseguido. El éxito de dichas pruebas es rechazado como
 "pura suerte", "coincidencia" o como el resultado de "intentar igualar" a
