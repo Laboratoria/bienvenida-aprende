@@ -21,7 +21,7 @@ con nuestros equipos.
 En este gráfico podrás observar varias habilidades que intentaremos ayudarte
 a despertar o reforzar en tus experiencias de aprendizaje:
 
-![habilidades](https://user-images.githubusercontent.com/42012372/81232054-d1373780-8fb9-11ea-9f09-71a5b1efe90f.png)
+![Habilidades](https://user-images.githubusercontent.com/42012372/84184035-4f23ae00-aa52-11ea-9996-e8457406aae0.png)
 
 **Empieza a apropiarte de tu proceso de aprendizaje**
 
