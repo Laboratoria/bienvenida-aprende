@@ -8,7 +8,7 @@
 
 [¿Cuáles son las habilidades más importantes?](https://vimeo.com/421255025/)
 
-Fuente: Cotec - 27 de Abril 2019
+Fuente: Cotec - 27 de Abril 2019 / material editado
 
 Luego de ver este video, pregúntate lo siguiente:
 

@@ -6,7 +6,7 @@
 
 ***
 
-[Autoconocimiento](https://vimeo.com/424939718/fa4a36b807)
+[Autoconocimiento](https://vimeo.com/424939718)
 
 Luego de ver este video, pregúntate lo siguiente:
 

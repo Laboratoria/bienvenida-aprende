@@ -7,19 +7,19 @@
 ***
 [Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
-[¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
+# Conoce [¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
 
 [Percepción](https://vimeo.com/368066649)
 
 Luego de ver este video, pregúntate lo siguiente:
 
 1. ¿Cuáles son los estímulos culturales que influencian tu entorno?
-2. ¿Tienes una percepción sobre otras personas? 
+2. ¿Tienes una percepción sobre otras personas?
 3. ¿Conoces cuál es la percepción que tienen otros sobre ti?
 
 ## ¿Quieres llevarlo a la práctica?
 
-Para el desarrollo del segundo eje de autonocimiento: "¿Cuál es la mejor manera
+Para el desarrollo del segundo eje de autoconocimiento: "¿Cuál es la mejor manera
 de desarrollarnos en lo interpersonal" te sugerimos la dinámica "La Ventana de
 Johari" donde conocerás mejor la percepción que otros tienen de ti.
 
@@ -28,7 +28,7 @@ Johari" donde conocerás mejor la percepción que otros tienen de ti.
 De esta manera podrás obtener respuestas reales. [Aquí](https://www.google.com/forms/about/) una sugerencia
 
 ### Paso 1
-Desrrolla un formulario (google forms, typeform) donde las personas puedan escoger las 4 habilidades que ven en ti. Recuerda hacer una lista de las habilidades para que tus compañeros puedan elegir más fácilmente.
+Desarrolla un formulario (google forms, typeform) donde las personas puedan escoger las 4 habilidades que ven en ti. Recuerda hacer una lista de las habilidades para que tus compañeros puedan elegir más fácilmente.
 
 Estas son las habilidades que puedes tomar de ejemplo:
 - Negociación: Es capaz de argumentar y acordar con otras personas para llegar a un consenso
