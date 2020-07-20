@@ -17,6 +17,8 @@ fundamentales. Sé riguroso con esta planificación y procura atenerte a ella
 2. **Técnica Pomodoro:** optimiza tu tiempo y la eficiencia mediante el bloqueo
 de 25 minutos de concentración continua. Lee más sobre esto [aquí](https://blog.trello.com/es/tecnica-pomodoro)
 
+*Fuente: Francesco Cirillo, 1980*
+
 3. **Lugar:** por muchas horas que pases estudiando si el ambiente no es el
 adecuado, de poco servirá. Busca un espacio tranquilo y donde no vayas a ser
 interrumpido

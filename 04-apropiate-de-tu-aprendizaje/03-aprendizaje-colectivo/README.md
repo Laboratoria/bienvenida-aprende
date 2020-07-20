@@ -11,6 +11,8 @@ problemas y transmitir conocimientos de unos a otros.
 
 [Historia de aprendizaje colectivo](https://youtu.be/ppIzSaP2jWI)
 
+*Fuente: Threshold 6: Humans and Collective Learning, Big History Project, OER Project,23 de Septiembre del 2013.*
+
 La mejor forma de aprender es cuestionarse y reflexionar incluyendo otros puntos
 de vista que enriquecen nuestra comprensión de los retos que abordamos y
 nuestras soluciones. Es por esto que la diversidad y el aprendizaje colectivo

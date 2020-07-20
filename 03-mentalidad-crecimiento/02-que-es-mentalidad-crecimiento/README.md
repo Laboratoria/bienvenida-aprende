@@ -16,6 +16,8 @@
 
 [Video sobre la Mentalidad de Crecimiento](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)
 
+*Fuente: The Power of belief -- mindset and success - Eduardo Briceno, TEDxManhattanBeach, 18 de Noviembre del 2012*
+
 ## Conceptos importantes que debes recordar
 
 * Uno de los principios fundamentales para ganar en esta nueva era digital,

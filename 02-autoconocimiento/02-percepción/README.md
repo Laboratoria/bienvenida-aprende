@@ -7,6 +7,8 @@
 ***
 [Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
+*Fuente: El acertijo que puede mostrarte algo de ti mismo que quizás no sabías, BBC News Mundo, 8 de Marzo 2018*
+
 # Conoce [¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
 
 [Percepción](https://vimeo.com/368066649)
