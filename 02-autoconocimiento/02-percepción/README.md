@@ -22,7 +22,7 @@ Luego de ver este video, pregúntate lo siguiente:
 ## ¿Quieres llevarlo a la práctica?
 
 Para el desarrollo del segundo eje de autoconocimiento: "¿Cuál es la mejor manera
-de desarrollarnos en lo interpersonal" te sugerimos la dinámica "La Ventana de
+de desarrollarnos en lo interpersonal"? te sugerimos la dinámica "La Ventana de
 Johari" donde conocerás mejor la percepción que otros tienen de ti.
 
 - Pregúntale a algunas personas ¿Cuáles son las habilidades que ven en ti? e identifica cómo está tu ventana de Johari
