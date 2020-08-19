@@ -20,8 +20,8 @@ aprendido?
 
 **El respeto a la individualidad**
 - ¿Cómo hacer que esta experiencia se acople a tu forma y ritmo de aprendizaje?
-- ¿Cómo respetas la experiencia individual de aprendizaje del resto de tu equipo
-y aprenden juntas en el reto que quieren abordar?
+- ¿Cómo respetas la experiencia individual de aprendizaje del resto de tu equipo o compañeras/os
+y aprenden juntas/os en el reto que quieren abordar?
 
 **Aprender haciendo**
 - ¿Cómo prácticas y aplicas lo que estás tratando de aprender para generar nuevos hábitos y comportamientos?
