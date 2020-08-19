@@ -18,5 +18,5 @@ con el síndrome permanecen convencidos de que son un fraude y no merecen el
 otros que son más inteligentes y competentes de lo que ellos creen ser.
 
 Luego de ver este video, pregúntate lo siguiente:
-1. ¿Alguna vez has pensado que no eres lo suficientemente bueno en algo?
-2. ¿Has reflexionado sobre en lo que sí eres bueno y en lo que podrías mejorar?
+1. ¿Alguna vez has pensado que no eres lo suficientemente bueno o buena en algo?
+2. ¿Has reflexionado sobre en lo que sí eres bueno o buena y en lo que podrías mejorar?
