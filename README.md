@@ -1,23 +1,20 @@
-# Introducción a Aprende
+# Welcome to Aprende
 
-¡Bienvenida/o a Aprende! La plataforma de aprendizaje de Laboratoria donde
-te acompañaremos a dar los primeros pasos en tu camino a ser un aprendiz de
-por vida y desarrollar las habilidades básicas para enfrentar esta nueva era
-del conocimiento.
+Welcome to Aprende, Laboratoria´s learning platform! Here we will join you in
+your first steps to become a lifelong learner and develop the skills you need
+to face the new knowledge era.
 
 
 ## Syllabus
 
-### Unidad 01: [Sobre Aprende](01-sobre-aprende)
+### Unidad 01: [About Aprende](01-about-aprende)
 
-Sobre Aprende y nuestro modelo de aprendizaje
+Aoout Aprende and Laboratoria´s learning model
 
-### Unidad 02: [Autoconocimiento](02-autoconocimiento)
-
-La base del aprendizaje continuo es el conocernos mejor para lograr una mejora
-continua a lo largo de nuestra vida personal y profesional
-
-### Unidad 03: [Mentalidad de crecimiento](03-mentalidad-crecimiento)
+### Unidad 02: [Self-Awareness](02-self-awareness)
 
 
-### Unidad 04: [Aprópiate de tu aprendizaje](04-apropiate-de-tu-aprendizaje)
+### Unidad 03: [Growth Mindset](03-growth-mindset)
+
+
+### Unidad 04: [Take ownership of your learning](04-ownership-of-your-learning)
