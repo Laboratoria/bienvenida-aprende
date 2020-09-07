@@ -10,7 +10,7 @@
 
 [How do you develop GM](https://vimeo.com/407675651)
 
-*You can turn on english subtitles by clicking in CC*
+**You can turn on english subtitles by clicking in CC**
 
 The following image summarizes some of the differences between both mindsets
 and it will help you to identify how to improve.

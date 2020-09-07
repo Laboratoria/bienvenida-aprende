@@ -8,13 +8,13 @@
 
 [What is a Growth Mindset?](https://vimeo.com/407240377)
 
-*You can turn on english subtitles by clicking in CC*
+**You can turn on english subtitles by clicking in CC**
 
 ## What is the evidence?
 
 [Evidence](https://vimeo.com/407251312)
 
-*You can turn on english subtitles by clicking in CC*
+**You can turn on english subtitles by clicking in CC**
 
 ## The power of belief
 
@@ -26,7 +26,7 @@
 ## Important concepts you should remember
 
 * One of the fundamental principles to succeed in this new digital era, in which
-change happens so quickly, is  **learn  how to learn** and do it**continuously**
+change happens so quickly, is  **learn  how to learn** and do it **continuously**
 
 * **Having a Growth Mindset** you can always  develop and increase your
 intelligence and all your skills. Do it!  And if it scares you, feel the fear

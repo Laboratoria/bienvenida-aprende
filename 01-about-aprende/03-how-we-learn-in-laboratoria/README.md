@@ -8,7 +8,7 @@
 
 [Laboratoria’s model](https://vimeo.com/412540970)
 
-*You can turn on english subtitles by clicking in CC*
+**You can turn on english subtitles by clicking in CC**
 
 The principles you should keep in mind throughout your learning experiences with
 us are:
