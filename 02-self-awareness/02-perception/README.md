@@ -17,7 +17,7 @@ Find out [What are cognitive biases and why are they so important](https://www.b
 
 [Perception](https://vimeo.com/368066649)
 
-**You can turn on english subtitles by clicking in CC**
+***You can turn on english subtitles by clicking in CC***
 
 After watching this video, ask yourself the following questions:
 

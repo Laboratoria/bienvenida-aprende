@@ -8,7 +8,7 @@
 
 [Impostor Syndrome](https://vimeo.com/368362316)
 
-**You can turn on english subtitles by clicking in CC**
+***You can turn on english subtitles by clicking in CC***
 
 Is a psychological pattern in which an individual doubts their accomplishments
 or talents and has a persistent internalized fear of being exposed as a "fraud".

@@ -8,13 +8,13 @@
 
 [What is a Growth Mindset?](https://vimeo.com/407240377)
 
-**You can turn on english subtitles by clicking in CC**
+***You can turn on english subtitles by clicking in CC***
 
 ## What is the evidence?
 
 [Evidence](https://vimeo.com/407251312)
 
-**You can turn on english subtitles by clicking in CC**
+***You can turn on english subtitles by clicking in CC***
 
 ## The power of belief
 

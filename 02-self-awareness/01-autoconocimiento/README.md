@@ -8,7 +8,7 @@
 
 [Self-Awareness](https://vimeo.com/424939718)
 
-**You can turn on english subtitles by clicking in CC**
+***You can turn on english subtitles by clicking in CC***
 
 After watching this video, ask yourself the following questions:
 
