@@ -24,8 +24,6 @@ Remember, you have unlimited access to this platform. This means you will
 continue to find relevant content even after having gone through each of your
 courses.
 
-##Learn more about Laboratoria  [Laboratoria](https://vimeo.com/345548848)
-
 ## Other ways to interact with us:
 
 * **Hire  Front-End Developers and UX Designers** who have the  mindset  and
