@@ -9,7 +9,6 @@ to face the new knowledge era.
 
 ### Unidad 01: [About Aprende](01-about-aprende)
 
-Aoout Aprende and Laboratoria´s learning model
 
 ### Unidad 02: [Self-Awareness](02-self-awareness)
 
