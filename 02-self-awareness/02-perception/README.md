@@ -5,11 +5,15 @@
 * Duración: `5min`
 
 ***
+## Cognitive Bias
+
 [Cognitive bias](https://youtu.be/Kho5KvPBDSw)
 
 *Fuente: The Confirmation Bias, Sprouts, December 31 2019*
 
-# Find out [What are cognitive biases and why are they so important](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
+Find out [What are cognitive biases and why are they so important](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
+
+## Perception
 
 [Perception](https://vimeo.com/368066649)
 
