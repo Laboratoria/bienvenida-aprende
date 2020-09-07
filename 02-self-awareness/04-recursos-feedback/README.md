@@ -10,6 +10,8 @@ are making with your learning process is feedback.
 
 [Feedback](https://vimeo.com/368080166)
 
+*You can turn on english subtitles by clicking in CC*
+
 After watching this video, ask yourself the following questions:
 1. When is feedback considered a gift?
 2. Have you ever asked your team for  _feedback_ ? How often do you do this?

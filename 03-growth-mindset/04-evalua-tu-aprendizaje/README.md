@@ -7,12 +7,8 @@
 ***
 
 One of the characteristics of active learning is taking ownership of the new
-concepts. It’s time to apply it:
+concepts. It’s time to apply it and share in our comments section your
+reflection of the following question:
 
-[Explain this to a friend](CAMBIAR)
-
-## Do you have any reflections you want to share or any doubts to clarify?
-
-Collective learning enhances our own learning and reflections. Use our comments
-section and reflect along with other students and coaches in the “Aprende”
-community.
+How would you explain to a friend what you learned in this unit?  Using concrete
+examples that feel close to your daily life will help you understand them better.

@@ -8,13 +8,18 @@
 
 [What is a Growth Mindset?](https://vimeo.com/407240377)
 
+*You can turn on english subtitles by clicking in CC*
+
 ## What is the evidence?
 
 [Evidence](https://vimeo.com/407251312)
 
+*You can turn on english subtitles by clicking in CC*
+
 ## The power of belief
 
 [Video sobre la Mentalidad de Crecimiento](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)
+
 
 *Source: The Power of belief -- mindset and success - Eduardo Briceno, TEDxManhattanBeach, November 18 of 2012*
 
