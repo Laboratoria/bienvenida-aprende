@@ -6,12 +6,12 @@
 
 ***
 
-Una de las características de un aprendizaje activo es apropiarse de los nuevos conceptos, es momento de aplicarlo:
+Una de las características de un aprendizaje activo es apropiarse de los nuevos
+conceptos. Es momento de aplicarlo y compartir en nuestra sección de comentarios
+tu respuesta y reflexiones de la siguiente pregunta:
 
-[Explícalo a un/a amigo/a](https://laboratoria.typeform.com/to/NgdWwj?uid=xxxxx&email=xxxxx&name=xxxxx&cohortid=xxxxx&courseid=xxxxx&unitid=xxxxx&partid=xxxxx&fname=xxxxx&empresa=Brein)
+¿Cómo le explicarías a otra persona lo que aprendiste en esta unidad? Recuerda
+que usar ejemplos de tu vida diaria que se sientan cercanos a ti te ayudarán
+a aterrizar mejor lo aprendido.
 
-## ¿Tienes reflexiones que quieres compartir o quieres despejar dudas?
-
-El aprendizaje colectivo potencia nuestro propio aprendizaje y reflexiones.
-Usa nuestra funcionalidad de comentarios y reflexiona junto a la comunidad
-de estudiantes de Aprende y coaches. 
+ 
