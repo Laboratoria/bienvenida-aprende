@@ -30,7 +30,7 @@ Para el desarrollo del segundo eje de autoconocimiento: "¿Cuál es la mejor man
 de desarrollarnos en lo interpersonal"? te sugerimos la dinámica "La Ventana de
 Johari" donde conocerás mejor la percepción que otros tienen de ti.
 
-- Pregúntale a algunas personas ¿Cuáles son las habilidades que ven en ti? e identifica cómo está tu ventana de Johari
+- Pregúntale a algunas personas ¿Cuáles son las habilidades que ven en ti? e identifica cómo está tu ventana de Johari.
 - Es mejor que utilices una herramienta digital, y lanzar una encuesta anónima.
 De esta manera podrás obtener respuestas reales. [Aquí](https://www.google.com/forms/about/) una sugerencia
 
@@ -38,13 +38,13 @@ De esta manera podrás obtener respuestas reales. [Aquí](https://www.google.com
 Desarrolla un formulario (google forms, typeform) donde las personas puedan escoger las 4 habilidades que ven en ti. Recuerda hacer una lista de las habilidades para que tus compañeros puedan elegir más fácilmente.
 
 Estas son las habilidades que puedes tomar de ejemplo:
-- Negociación: Es capaz de argumentar y acordar con otras personas para llegar a un consenso
+- Negociación: Es capaz de argumentar y acordar con otras personas para llegar a un consenso.
 - Comunicación: Elabora ideas con estructura y secuencias lógicas, comprensible para todos sus interlocutores.
 - Dar/Recibir Feedback: Tiene la capacidad de dar y recibir feedback constructivo y accionable. No es personal, es sobre comportamientos en el trabajo.
 - Flexibilidad: Es capaz de adecuarse a lo que requiere la situación o el entorno.
 - Experimentación: Prueba manipular una variable a la vez para comprobar una hipótesis.
-- Reflexión: Puede razonar e indagar sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje
-- Apertura: Tiene una mentalidad receptiva para escuchar y asimilar nuevas ideas que podrían cuestionar pre concepciones
+- Reflexión: Puede razonar e indagar sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje.
+- Apertura: Tiene una mentalidad receptiva para escuchar y asimilar nuevas ideas que podrían cuestionar pre concepciones.
 - Diagnóstico: Entiende cuál es el problema y qué evidencia debe buscar para proponer soluciones de valor.
 
 ### Paso 2
