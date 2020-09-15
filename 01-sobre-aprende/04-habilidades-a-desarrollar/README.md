@@ -26,6 +26,6 @@ a despertar o reforzar en tus experiencias de aprendizaje:
 **Empieza a apropiarte de tu proceso de aprendizaje**
 
 Continuamente estamos abordando nuevos retos tanto en lo profesional como en
-lo personal
+lo personal.
 
 - ¿Qué habilidad quisieras desarrollar en el siguiente reto al que te enfrentes?
