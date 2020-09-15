@@ -24,4 +24,4 @@ aprendido?
 y aprenden juntas/os en el reto que quieren abordar?
 
 **Aprender haciendo**
-- ¿Cómo prácticas y aplicas lo que estás tratando de aprender para generar nuevos hábitos y comportamientos?
+- ¿Cómo practicas y aplicas lo que estás tratando de aprender para generar nuevos hábitos y comportamientos?
