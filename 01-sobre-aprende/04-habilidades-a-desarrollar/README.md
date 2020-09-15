@@ -6,9 +6,9 @@
 
 ***
 
-En Laboratoria creemos que el talento de hoy necesita reforzar las
+En Laboratoria, creemos que el talento de hoy necesita reforzar las
 habilidades que le permitirán resolver desafíos complejos de manera
-colaborativa en un contexto de alta incertidumbre con un ritmo de
+colaborativa, en un contexto de alta incertidumbre, con un ritmo de
 cambio rápido y continuo.
 
 La capacidad de abordar estos nuevos retos no dependerá únicamente del "expertise"  
