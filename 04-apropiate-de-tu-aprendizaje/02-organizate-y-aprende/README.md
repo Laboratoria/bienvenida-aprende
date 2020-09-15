@@ -15,7 +15,7 @@ tiempo diariamente para estudiar, incluye también horas de descanso que son
 fundamentales. Sé riguroso con esta planificación y procura atenerte a ella.
 
 2. **Técnica Pomodoro:** optimiza tu tiempo y la eficiencia mediante el bloqueo
-de 25 minutos de concentración continua. Lee más sobre esto [aquí](https://blog.trello.com/es/tecnica-pomodoro)
+de 25 minutos de concentración continua. Lee más sobre esto [aquí.](https://blog.trello.com/es/tecnica-pomodoro)
 
 *Fuente: Francesco Cirillo, 1980*
 
