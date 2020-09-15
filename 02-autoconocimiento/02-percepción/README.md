@@ -49,7 +49,7 @@ Estas son las habilidades que puedes tomar de ejemplo:
 
 ### Paso 2
 Luego de tener el formulario, la primera persona que lo debería llenar, eres tú!
-El primer paso es reconocerte y aceptarte, por lo que vas a escoger 4 habilidades que ves en ti
+El primer paso es reconocerte y aceptarte, por lo que vas a escoger 4 habilidades que ves en ti.
 
 Esto es bueno porque también te servirá para probar si todo está bien con el formulario.
 
