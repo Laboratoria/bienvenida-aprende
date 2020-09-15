@@ -12,4 +12,4 @@ tu respuesta y reflexiones de la siguiente pregunta:
 
 
 **¿Cómo le explicarías a otra persona lo que aprendiste en esta unidad?** Recuerda
-que usar ejemplos de tu vida diaria que se sientan cercanos a ti te ayudarán
+que usar ejemplos de tu vida diaria que se sientan cercanos a ti te ayudarán.
