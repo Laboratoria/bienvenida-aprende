@@ -24,14 +24,14 @@ Propone dos puntos de vista clave: el yo y los otros, es decir, el punto de vist
 
 Estas son las habilidades que puedes tomar de ejemplo:
 
-    - **Negociación:** Es capaz de argumentar y acordar con otras personas para llegar a un consenso.
-    - **Comunicación:** Elabora ideas con estructura y secuencias lógicas, comprensible para todos sus interlocutores.
-    - **Dar/Recibir Feedback:** Tiene la capacidad de dar y recibir feedback constructivo y accionable. No es personal, es sobre comportamientos en el trabajo.
-    - **Flexibilidad:** Es capaz de adecuarse a lo que requiere la situación o el entorno.
-    - **Experimentación:** Prueba manipular una variable a la vez para comprobar una hipótesis.
-    - **Reflexión:** Puede razonar e indagar sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje.
-    - **Apertura:** Tiene una mentalidad receptiva para escuchar y asimilar nuevas ideas que podrían cuestionar pre concepciones.
-    - **Diagnóstico:** Entiende cuál es el problema y qué evidencia debe buscar para proponer soluciones de valor.
+    - Negociación: Es capaz de argumentar y acordar con otras personas para llegar a un consenso.
+    - Comunicación: Elabora ideas con estructura y secuencias lógicas, comprensible para todos sus interlocutores.
+    - Dar/Recibir Feedback: Lo hace de manera constructiva y accionable sobre comportamientos en el trabajo.
+    - Flexibilidad: Es capaz de adecuarse a lo que requiere la situación o el entorno.
+    - Experimentación: Prueba manipular una variable a la vez para comprobar una hipótesis.
+    - Reflexión: Puede razonar e indagar sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje.
+    - Apertura: Tiene una mentalidad receptiva para escuchar y asimilar nuevas ideas que podrían cuestionar pre concepciones.
+    - Diagnóstico: Entiende cuál es el problema y qué evidencia debe buscar para proponer soluciones de valor.
 
 ### Paso 2
 - Luego de tener el formulario, la primera persona que lo debería llenar, ¡eres tú!
