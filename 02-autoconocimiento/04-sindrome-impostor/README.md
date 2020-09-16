@@ -16,6 +16,8 @@ con el síndrome permanecen convencidas de que son un fraude y no merecen el
 "pura suerte", "coincidencia" o como el resultado de "intentar igualar" a
 otros que son más inteligentes y competentes de lo que ellas creen ser.
 
+***Fuente:*** *Luft, J.; Ingham, H. (1955). "The Johari window, a graphic model of interpersonal awareness". Proceedings of the Western Training Laboratory in Group Development. Los Angeles: University of California, Los Angeles.*
+
 Luego de ver este video, pregúntate lo siguiente:
 1. ¿Alguna vez has pensado que no eres lo suficientemente bueno o buena en algo?
 2. ¿Has reflexionado sobre en lo que sí eres bueno o buena y en lo que podrías mejorar?
