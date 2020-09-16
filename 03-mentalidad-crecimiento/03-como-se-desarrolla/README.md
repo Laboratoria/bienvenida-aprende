@@ -5,9 +5,6 @@
 * Duración: `10min`
 
 ***
-
-## Desarrollando una mentalidad de crecimiento (Growth Mindset)
-
 [Cómo desarrollar GM](https://vimeo.com/407675651)
 
 La siguiente imagen resume algunas de las diferencias entre ambas mentalidades,
@@ -15,14 +12,9 @@ y te ayudará a identificar cómo mejorar:
 
 ![Mentalidad fija vs  crecimiento](https://user-images.githubusercontent.com/36275285/78410315-851b6080-75d1-11ea-8515-b9e3ae355813.jpg)
 
-### Conceptos importantes que debes recordar:
+Luego de ver este video pregúntate lo siguiente:
+1. ¿Cuál es la diferencia entre aprender rápido versus un aprendizaje que requiera de más esfuerzo y dificultad?
+2. ¿Por qué es tan importante cometer errores y aprender las cosas por tu cuenta?
+3. ¿Qué representa el concepto de aprender a aprender y por qué es tan relevante en la mentalidad de crecimiento?
 
-* Cuando el aprendizaje es más difícil, es más profundo y se queda en tu memoria
-más tiempo
-* Tratar de resolver un problema antes de que te muestren cómo hacerlo, te
-permitirá luego aprender y entender mejor la solución que te enseñen
-* Cometer errores y corregirlos es lo que te permitirá construir los puentes
-para avanzar en el proceso de aprendizaje
-* Aprender a aprender es clave en construir una mentalidad de crecimiento para
-crear productos o servicios que generen valor e impacten a tus clientes y a tu
-negocio
+> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!

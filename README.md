@@ -1,23 +1,15 @@
-# Introducción a Aprende
+# ¡Inicia tu camino de aprendiz de por vida!
 
-¡Bienvenida/o a Aprende! La plataforma de aprendizaje de Laboratoria donde
-te acompañaremos a dar los primeros pasos en tu camino a ser un aprendiz de
-por vida y desarrollar las habilidades básicas para enfrentar esta nueva era
-del conocimiento.
+Tu experiencia de aprendizaje empieza por este contenido. Te acompañaremos a dar los primeros pasos que te ayudarán a descubrir tu camino de aprendiz de por vida. De esta manera, desarrollarás las habilidades básicas para enfrentar esta nueva era del conocimiento.
 
+En Laboratoria creemos que el inicio del viaje empieza con 2 pilares principales: el Autoconocimiento y la Mentalidad de Crecimiento.
 
 ## Syllabus
 
-### Unidad 01: [Sobre Aprende](01-sobre-aprende)
-
-Sobre Aprende y nuestro modelo de aprendizaje
+### Unidad 01: [¿Por qué ser un aprendiz de por vida?](01-por-que-ser-aprendiz-vida)
 
 ### Unidad 02: [Autoconocimiento](02-autoconocimiento)
 
-La base del aprendizaje continuo es el conocernos mejor para lograr una mejora
-continua a lo largo de nuestra vida personal y profesional
-
 ### Unidad 03: [Mentalidad de crecimiento](03-mentalidad-crecimiento)
-
 
 ### Unidad 04: [Aprópiate de tu aprendizaje](04-apropiate-de-tu-aprendizaje)

@@ -8,7 +8,7 @@
 
 [Qué es growth mindset](https://vimeo.com/407240377)
 
-## ¿Cuál es la evidencia?
+## ¿Cuál es la evidencia científica?
 
 [Evidencia GM](https://vimeo.com/407251312)
 
@@ -18,15 +18,10 @@
 
 *Fuente: The Power of belief -- mindset and success - Eduardo Briceno, TEDxManhattanBeach, 18 de Noviembre del 2012*
 
-## Conceptos importantes que debes recordar
+Luego de ver estos contenidos, pregúntate lo siguiente:
 
-* Uno de los principios fundamentales para ganar en esta nueva era digital,
-con su vertiginoso ritmo de cambio, es el  **aprender a aprender** y
-hacerlo **continuamente**
+1. ¿Cuál es uno de los principios fundamentales para ganar en esta nueva era digital?
+2. ¿Qué significa tener una mentalidad de crecimiento?
+3. ¿Cuál es la mejor manera de aprender?
 
-* **Tener una mentalidad de crecimiento** significa que puedes desarrollar e
-incrementar tu inteligencia y todas tus habilidades siempre. ¡Hazlo! y si te da
-miedo, hazlo con miedo
-
-* La mejor manera de **aprender se logra con esfuerzo**, y por ello estás
-**dispuesta/o a cometer errores** en el proceso
+> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!

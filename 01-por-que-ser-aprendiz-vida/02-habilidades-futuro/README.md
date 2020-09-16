@@ -15,3 +15,5 @@ Luego de ver este video, pregúntate lo siguiente:
 1. ¿Qué rol juegas y cómo puedes prepararte mejor para vivir “La Era de los Humanos”?
 2. ¿Cuáles son las habilidades que has estado practicando?
 3. ¿Cuáles son las habilidades que quieres aprender o potenciar?
+
+> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
