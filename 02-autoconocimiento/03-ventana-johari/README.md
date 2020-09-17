@@ -15,6 +15,7 @@ Propone dos puntos de vista clave: el yo y los otros, es decir, el punto de vist
 
 ***Fuente:*** *Luft, J.; Ingham, H. (1955). "The Johari window, a graphic model of interpersonal awareness". Proceedings of the Western Training Laboratory in Group Development.*
 
+
 ## ¡Llévalo a la práctica!
 
 ### Paso 1
@@ -29,12 +30,12 @@ Estas son las habilidades que puedes tomar de ejemplo:
     - Dar/Recibir Feedback: Lo hace de manera constructiva y accionable sobre comportamientos en el trabajo.
     - Flexibilidad: Es capaz de adecuarse a lo que requiere la situación o el entorno.
     - Experimentación: Prueba manipular una variable a la vez para comprobar una hipótesis.
-    - Reflexión: Puede razonar e indagar sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje.
+    - Reflexión: Razona e indaga sobre las circunstancias, hechos y conceptos para construir una nueva etapa de aprendizaje.
     - Apertura: Tiene una mentalidad receptiva para escuchar y asimilar nuevas ideas que podrían cuestionar pre concepciones.
     - Diagnóstico: Entiende cuál es el problema y qué evidencia debe buscar para proponer soluciones de valor.
 
 ### Paso 2
-- Luego de tener el formulario, la primera persona que lo debería llenar, ¡eres tú!
+- Una vez tengas tu formulario, la primera persona que lo debería llenar, ¡eres tú!
 - El primer paso es reconocerte y aceptarte, por lo que vas a escoger 4 habilidades que ves en ti.
 - Esto es bueno porque también te servirá para probar si todo está bien con el formulario.
 
@@ -45,7 +46,6 @@ perspectivas.
 
 ### Paso 4
 - Reúne las respuestas y colócalas en estos cuadrantes.
+- Esto te permitirá comparar las respuestas con las que tú ya tenías y conocerte mejor.
 
 ![image](https://user-images.githubusercontent.com/42012372/78719358-6c6cbc80-78e9-11ea-96d4-17111552968c.png)
-
-Esto te permitirá comparar las respuestas con las que tú ya tenías y conocerte mejor.
