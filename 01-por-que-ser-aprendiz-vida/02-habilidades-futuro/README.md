@@ -16,4 +16,4 @@ Luego de ver este video, pregúntate lo siguiente:
 2. ¿Cuáles son las habilidades que has estado practicando?
 3. ¿Cuáles son las habilidades que quieres aprender o potenciar?
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora.
