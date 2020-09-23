@@ -12,16 +12,14 @@
 
 [Evidencia GM](https://vimeo.com/407251312)
 
-## El poder de creer
+## Es Bueno Saberlo
 
-[Video sobre la Mentalidad de Crecimiento](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)
-
-*Fuente: The Power of belief -- mindset and success - Eduardo Briceno, TEDxManhattanBeach, 18 de Noviembre del 2012*
+[Es Bueno Saberlo Ep 2](https://www.youtube.com/watch?v=nzVGvCGCO1Y)
 
 Luego de ver estos contenidos, pregúntate lo siguiente:
 
-1. ¿Cuál es uno de los principios fundamentales para ganar en esta nueva era digital?
-2. ¿Qué significa tener una mentalidad de crecimiento?
-3. ¿Cuál es la mejor manera de aprender?
+1. ¿Qué significa tener una mentalidad de crecimiento?
+2. ¿Cuál es la mejor manera de aprender?
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
+
