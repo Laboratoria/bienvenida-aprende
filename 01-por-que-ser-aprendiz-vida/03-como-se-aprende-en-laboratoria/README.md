@@ -23,4 +23,4 @@ aprender?
 1. ¿Cómo puedes poner a prueba tu nuevo conocimiento, sin necesidad de saber el paso a paso?
 2. ¿Cómo practicas y aplicas lo que estás tratando de aprender para generar nuevos hábitos y comportamientos?
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora.
