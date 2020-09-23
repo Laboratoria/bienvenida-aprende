@@ -1,8 +1,8 @@
-# ¡Inicia tu camino de aprendiz de por vida!
+# ¡Descubre tu potencial de aprendizaje!
 
-Tu experiencia de aprendizaje empieza por este contenido. Te acompañaremos a dar los primeros pasos que te ayudarán a descubrir tu camino de aprendiz de por vida. De esta manera, desarrollarás las habilidades básicas para enfrentar esta nueva era del conocimiento.
+Tu experiencia de aprendizaje empieza por este contenido. Te acompañaremos a dar los primeros pasos que te ayudarán a descubrir tu potencial de aprendizaje. De esta manera, desarrollarás las habilidades básicas para enfrentar esta nueva era del conocimiento.
 
-En Laboratoria creemos que el inicio del viaje empieza con 2 pilares principales: el Autoconocimiento y la Mentalidad de Crecimiento.
+En Laboratoria creemos que el inicio de este camino empieza con 2 pilares principales: el Autoconocimiento y la Mentalidad de Crecimiento.
 
 ## Syllabus
 
