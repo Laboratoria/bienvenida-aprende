@@ -17,4 +17,4 @@ Luego de ver este video pregúntate lo siguiente:
 2. ¿Por qué es tan importante cometer errores y aprender las cosas por tu cuenta?
 3. ¿Qué representa el concepto de aprender a aprender y por qué es tan relevante en la mentalidad de crecimiento?
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora.
