@@ -10,7 +10,7 @@
 
 Luego de ver este video, pregúntate lo siguiente:
 
-1. ¿Por qué es importante el auto-conocimiento?
+1. ¿Por qué es importante el autoconocimiento?
 2. ¿Cómo puedes empezar a desarrollar los dos ejes?
 3. ¿Cuál crees que es la forma en la que aprendes?
 
