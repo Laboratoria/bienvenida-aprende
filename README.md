@@ -8,7 +8,7 @@ En Laboratoria creemos que el inicio de este camino empieza con 2 pilares princi
 
 ### Unidad 01: [¿Por qué ser un aprendiz de por vida?](01-por-que-ser-aprendiz-vida)
 
-### Unidad 02: [Auto-conocimiento](02-autoconocimiento)
+### Unidad 02: [Autoconocimiento](02-autoconocimiento)
 
 ### Unidad 03: [Mentalidad de crecimiento](03-mentalidad-crecimiento)
 
