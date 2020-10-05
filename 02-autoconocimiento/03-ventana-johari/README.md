@@ -5,7 +5,7 @@
 * Duración: `20min`
 
 ***
-Para continuar con el desarrollo del auto-conocimiento, te presentaremos una herramienta para abordar el segundo eje:"¿Cuál es la mejor manera
+Para continuar con el desarrollo del autoconocimiento, te presentaremos una herramienta para abordar el segundo eje:"¿Cuál es la mejor manera
 de desarrollarnos en lo interpersonal"?
 
 ## ¿Qué es la Ventana de Johari?
