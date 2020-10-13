@@ -2,7 +2,7 @@
 
 * Tipo: `video`
 * Formato: `self-paced`
-* Duración: `10min`
+* Duración: `6min`
 
 ***
 Consejos para desarrollar y mantener una mentalidad de crecimiento en tu proceso
