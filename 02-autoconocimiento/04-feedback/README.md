@@ -31,6 +31,7 @@ Para un *feedback *simple* hacia otra persona, y pedir lo mismo:
 
 Para situaciones más **concretas y específicas**, se puede brindar el *feedback*
 siguiendo estos pasos:
+
 1. Cuando…ocurrió (*Describe el comportamiento*)
 2. Yo me sentí…(*Describe la reacción*)
 3. Porque…(*Explica por qué te sentiste así*)
