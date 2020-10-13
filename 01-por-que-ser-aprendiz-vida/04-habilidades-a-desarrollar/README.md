@@ -16,4 +16,4 @@ En esta imagen detallamos las habilidades que queremos despertar o reforzar en t
 
 **¿Qué habilidad sientes que deberías reforzar y por qué?**
 
-> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en la sección de comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
