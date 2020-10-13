@@ -8,7 +8,7 @@
 
 En Laboratoria, creemos que el "talento de hoy" necesita reforzar las habilidades que le permitan resolver desafíos complejos de manera colaborativa, en un contexto de cambios rápidos y alta incertidumbre.
 
-La manera que abordes nuevos retos dependerá del desarrollo de habilidades que te permitan fortalecer tu capacidad de "aprender a aprender". Es así como fortalecerás tu aprendizaje continuo, cada vez de manera más eficaz y autónoma, de acuerdo a tus objetivos y necesidades.
+La manera en la que abordes nuevos retos dependerá del desarrollo de habilidades que te permitan fortalecer tu capacidad de "aprender a aprender". Es así como fortalecerás tu aprendizaje continuo, cada vez de manera más eficaz y autónoma, de acuerdo a tus objetivos y necesidades.
 
 En esta imagen detallamos las habilidades que queremos despertar o reforzar en todas las experiencias de aprendizaje:
 
@@ -16,4 +16,4 @@ En esta imagen detallamos las habilidades que queremos despertar o reforzar en t
 
 **¿Qué habilidad sientes que deberías reforzar y por qué?**
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 

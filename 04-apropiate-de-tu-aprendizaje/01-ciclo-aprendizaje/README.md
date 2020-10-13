@@ -1,4 +1,4 @@
-# El aprendizaje como motor  
+# Trazando tu plan de aprendizaje
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -22,4 +22,4 @@ transitas en un contexto incierto. Algo que en Laboratoria le llamamos "el garab
 
 **¿Qué habilidad quisieras reforzar o desarrollar en tu siguiente ciclo de aprendizaje?**
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 

@@ -23,4 +23,4 @@ Luego de ver este video, pregúntate lo siguiente:
 2. ¿Qué estímulos culturales te llevaron a tener esa percepción?
 3. ¿Conoces cuál es la percepción que tienen otros sobre ti, o al menos esa primera impresión?
 
-> ¡Comparte tus respuestas con otras y otros estudiantes en nuestra sección de comentarios!
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
