@@ -5,7 +5,7 @@
 * Duración: `5min`
 
 ***
-Intro de texto a video
+Qué es, y por qué es importante la percepción para el autoconocimiento:
 
 [Video Clau](xxxx)
 
