@@ -6,10 +6,18 @@
 
 ***
 
+La importancia de aprender nuevas habilidades y nuevas formas de hacer las
+cosas, todos los días:
+
 [video mariana](xxxxx)
 
 Luego de ver este video, pregúntate lo siguiente:
 
-1. xxxxxxxxxx
-2. xxxxxxxxxxxxxxxx
-3. xxxxxxxxxxxx
+1. ¿Por qué es importante ser un aprendiz de por vida?
+2. ¿Qué te motiva a aprender?
+3. ¿Qué hábitos puedes implementar en tu día a día para tener nuevos
+conocimientos todos los días?
+
+Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
+Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta
+experiencia más enriquecedora.
