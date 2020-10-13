@@ -1,4 +1,4 @@
-# Trazando tu plan de aprendizaje
+# Aprendizaje como motor
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -9,12 +9,17 @@
 Para ser una aprendiz de por vida es básico apropiarte de tu aprendizaje
 continuo, tanto personal como profesionalmente.
 
+[Video Herman](xxxx)
+
 ## ¡Llévalo a la práctica!
 
-- Recuerda que el aprendizaje no es lineal, por lo que necesitarás pasar por varios ciclos de aprendizaje.
+- Recuerda que el aprendizaje no es lineal, por lo que necesitarás pasar por
+varios ciclos de aprendizaje.
 - Los ciclos de aprendizaje te ayudarán a avanzar hacia tus objetivos mientras
-transitas en un contexto incierto. Algo que en Laboratoria le llamamos "el garabato del aprendizaje".
-- Puedes proponerte mejorar alguna habilidad que ya tienes ahora o tal vez explorar un nuevo terreno y desarrollar una habilidad totalmente nueva.
+transitas en un contexto incierto. Algo que en Laboratoria le llamamos
+"el garabato del aprendizaje".
+- Puedes proponerte mejorar alguna habilidad que ya tienes ahora o tal vez
+explorar un nuevo terreno y desarrollar una habilidad totalmente nueva.
 
 **¡Cumpliendo estos ciclos puedes aprender lo que te propongas!**
 
@@ -22,4 +27,6 @@ transitas en un contexto incierto. Algo que en Laboratoria le llamamos "el garab
 
 **¿Qué habilidad quisieras reforzar o desarrollar en tu siguiente ciclo de aprendizaje?**
 
-> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
+Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
+para hacer esta experiencia más enriquecedora.
