@@ -6,7 +6,8 @@
 
 ***
 
-Una de las mejores herramientas para conocerte mejor y saber cómo estás avanzando en tus procesos de aprendizaje es la retroalimentación:
+Una de las mejores herramientas para conocerte mejor y saber cómo estás
+avanzando en tus procesos de aprendizaje es la retroalimentación:
 
 [Video Clau](xxxx)
 
@@ -20,7 +21,7 @@ Luego de ver este video, pregúntate lo siguiente:
 
 ## ¡Llévalo a la práctica!
 
-Para un feedback simple hacia otra persona, y pedir lo mismo:
+Para un *feedback *simple* hacia otra persona, y pedir lo mismo:
 
 *(nombre a quien se da el feedback)*  
 *Lo que más aprecio de ti es...*  
@@ -28,12 +29,13 @@ Para un feedback simple hacia otra persona, y pedir lo mismo:
 
 ![postit feedback](https://user-images.githubusercontent.com/28813060/91488417-e4c22300-e874-11ea-88ce-7d8b637c3c48.jpg)
 
-Para situaciones más concretas y específicas, se puede brindar el feedback siguiendo estos pasos:
-1. Cuando…ocurrió (describe el comportamiento)
-2. Yo me sentí…(describe la reacción)
-3. Porque…(Explica por qué te sentiste así)
-4. Lo que imagino es…(Si es posible, muestra que entiendes qué podría haber originado ese comportamiento)
-5. Lo que preferiría es…(Sugiere una manera diferente de comportamiento)
+Para situaciones más **concretas y específicas**, se puede brindar el *feedback*
+siguiendo estos pasos:
+1. Cuando…ocurrió (*Describe el comportamiento*)
+2. Yo me sentí…(*Describe la reacción*)
+3. Porque…(*Explica por qué te sentiste así*)
+4. Lo que imagino es…(*Si es posible, muestra que entiendes qué podría haber originado ese comportamiento*)
+5. Lo que preferiría es…(*Sugiere una manera diferente de comportamiento*)
 
 
 > Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.

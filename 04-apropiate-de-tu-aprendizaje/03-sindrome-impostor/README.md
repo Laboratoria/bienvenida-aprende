@@ -5,7 +5,8 @@
 * Duración: `4min`
 
 ***
-Conoce qué es el Síndrome del Impostor, la importancia de reconocerlo y cómo frena nuestro camino de aprendizaje:
+Conoce qué es el Síndrome del Impostor, la importancia de reconocerlo y
+cómo frena nuestro camino de aprendizaje:
 
 [Video Clau](xxxx)
 
