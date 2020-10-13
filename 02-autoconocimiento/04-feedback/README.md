@@ -6,7 +6,9 @@
 
 ***
 
-[Feedback](https://vimeo.com/368080166)
+Intro de texto al video
+
+[Video Clau](xxxx)
 
 Luego de ver este video, pregúntate lo siguiente:
 1. ¿El _feedback_ puede ser negativo?
@@ -24,3 +26,7 @@ Puedes empezar con un feedback simple hacia otra persona y pedir lo mismo.
 *Lo que me encantaría ver más de ti es...*  
 
 ![postit feedback](https://user-images.githubusercontent.com/28813060/91488417-e4c22300-e874-11ea-88ce-7d8b637c3c48.jpg)
+
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
+Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
+para hacer esta experiencia más enriquecedora.
