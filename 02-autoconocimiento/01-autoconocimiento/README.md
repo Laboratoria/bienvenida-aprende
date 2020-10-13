@@ -6,6 +6,8 @@
 
 ***
 
+Conoce cómo desarrollar y fortalecer la habilidad del autoconocimiento, a través de sus dos principales ejes:
+
 [Autoconocimiento](https://vimeo.com/424939718)
 
 Luego de ver este video, pregúntate lo siguiente:
@@ -24,6 +26,6 @@ Empieza desarrollando el primer eje: "La conciencia de una misma o uno mismo"
 
 ![El espejo](https://user-images.githubusercontent.com/36275285/83952344-e8a65200-a7fd-11ea-8a8d-c3ea88ba665f.png)
 
-> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en la sección de comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora. 
 
 ***
