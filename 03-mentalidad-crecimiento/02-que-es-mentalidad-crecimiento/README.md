@@ -5,7 +5,7 @@
 * Duración: `3min`
 
 ***
-¿Growth Mindset? Conoce en este video qué significa tener una mentalidad fija
+Conoce en este video qué significa tener una mentalidad fija
 versus una mentalidad de crecimiento:
 
 [Qué es growth mindset](https://vimeo.com/407240377)
