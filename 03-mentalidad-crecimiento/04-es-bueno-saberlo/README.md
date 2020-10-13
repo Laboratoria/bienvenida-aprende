@@ -8,7 +8,7 @@
 
 Segundo episodio de nuestro programa Es Bueno Saberlo. Conversamos con una
 académica experta en el tema, y que, además, ha publicado una investigación
-de la mano de Carol Dweck.
+de la mano de Carol Dweck:
 
 [Es Bueno Saberlo](https://www.youtube.com/watch?v=nzVGvCGCO1Y&t=1s)
 
