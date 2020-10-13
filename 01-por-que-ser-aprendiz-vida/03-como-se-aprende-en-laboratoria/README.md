@@ -1,10 +1,12 @@
-# ¿Cómo se aprende en Laboratoria?
+# Nuestro modelo de aprendizaje
 
 * Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `10min`
 
 ***
+
+Conoce las mentalidades y principios que caracterizan nuestras experiencias de aprendizaje:
 
 [Modelo de Laboratoria](https://vimeo.com/412540970)
 
@@ -23,4 +25,4 @@ aprender?
 1. ¿Cómo puedes poner a prueba tu nuevo conocimiento, sin necesidad de saber el paso a paso?
 2. ¿Cómo practicas y aplicas lo que estás tratando de aprender para generar nuevos hábitos y comportamientos?
 
-> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en los comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora.
+> Siempre aprendemos más compartiendo nuestras reflexiones en comunidad. Anímate a compartir en la sección de comentarios tus ideas y aprendizajes para hacer esta experiencia más enriquecedora.
