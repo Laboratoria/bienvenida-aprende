@@ -11,7 +11,7 @@ cosas, todos los días:
 
 [video mariana](xxxxx)
 
-Luego de ver este video, pregúntate lo siguiente:
+Luego de ver este video pregúntate lo siguiente:
 
 1. ¿Por qué es importante ser un aprendiz de por vida?
 2. ¿Qué te motiva a aprender?
