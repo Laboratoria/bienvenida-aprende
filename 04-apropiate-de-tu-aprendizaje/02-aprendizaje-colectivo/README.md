@@ -7,7 +7,8 @@
 ***
 Conoce qué significa el término aprendizaje colectivo, el lenguaje simbólico, y por qué son importantes:
 
-[Historia de aprendizaje colectivo](https://www.youtube.com/watch?v=sJSTNDNEaU0&feature=youtu.be)
+[Historia de aprendizaje colectivo](https://youtu.be/CBKqvEnmrjs?t=58)
+
 *Fuente: Collective Learning, World History Project, OER Project, 22 de noviembre del 2019.*
 
 Luego de ver este video, pregúntate lo siguiente:
