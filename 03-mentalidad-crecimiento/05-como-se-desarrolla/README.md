@@ -13,7 +13,7 @@ de aprendizaje:
 La siguiente imagen resume algunas de las diferencias entre ambas mentalidades,
 y te ayudará a identificar cómo mejorar:
 
-![Mentalidad fija vs  crecimiento](https://user-images.githubusercontent.com/71345056/95926167-379e5e00-0d81-11eb-958d-240b932a5dee.jpg)](https://user-images.githubusercontent.com/71345056/95927749-44bd4c00-0d85-11eb-85e8-6028fedb66eb.png)
+![Mentalidad fija vs  crecimiento](https://user-images.githubusercontent.com/71345056/96005226-dec2da00-0e01-11eb-9b1d-72ae1dc598ad.jpg)](https://user-images.githubusercontent.com/71345056/95927749-44bd4c00-0d85-11eb-85e8-6028fedb66eb.png)
 
 Luego de ver este video pregúntate lo siguiente:
 1. ¿Cuál es la diferencia entre aprender rápido versus un aprendizaje que
