@@ -6,8 +6,8 @@
 
 ***
 
-[Historia de aprendizaje colectivo](https://youtu.be/ppIzSaP2jWI)
-*Fuente: Threshold 6: Humans and Collective Learning, Big History Project, OER Project,23 de Septiembre del 2013.*
+[Historia de aprendizaje colectivo](https://www.youtube.com/watch?v=sJSTNDNEaU0&feature=youtu.be)
+*Fuente: Collective Learning, World History Project, OER Project, 22 de noviembre del 2019.*
 
 La mejor forma de aprender es cuestionarte y reflexionar incluyendo otros puntos
 de vista. Estos enriquecen tu comprensión de los retos que abordas y tus
