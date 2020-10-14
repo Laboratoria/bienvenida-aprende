@@ -10,12 +10,11 @@ Conoce qué significa el término aprendizaje colectivo, el lenguaje simbólico,
 [Historia de aprendizaje colectivo](https://www.youtube.com/watch?v=sJSTNDNEaU0&feature=youtu.be)
 *Fuente: Collective Learning, World History Project, OER Project, 22 de noviembre del 2019.*
 
-La mejor forma de aprender es cuestionarte y reflexionar incluyendo otros puntos
-de vista. Estos enriquecen tu comprensión de los retos que abordas y tus
-soluciones. Es por ello que la diversidad y el aprendizaje colectivo hacen que
-los productos y habilidades que desarrolles sean de mayor valor e impacto.
+Luego de ver este video, pregúntate lo siguiente:
+1.xxxxx
+2.xxxxx
+3.xxxx
 
-A lo largo de tu proceso de aprendizaje siempre ten en cuenta el compartir con
-tu equipo y otros estudiantes tus dudas, reflexiones, iniciativas y
-aprendizajes. Es por ello que siempre te animaremos a contestar las preguntas de
-reflexión y compartir los resultados de tus retos, para pedir retroalimentación.
+>Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
+Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
+para hacer esta experiencia más enriquecedora.
