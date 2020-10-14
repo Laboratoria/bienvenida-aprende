@@ -12,13 +12,7 @@ de la mano de Carol Dweck:
 
 [Es Bueno Saberlo](https://www.youtube.com/watch?v=nzVGvCGCO1Y&t=1s)
 
-Tres estrategias para mejorar una habilidad adoptando una mentalidad de
-crecimiento, aplicables al entorno personal y profesional, según Susana Claro,
-invitada del programa:
-
-1. Intentar de nuevo (pues la práctica genera instintos)
-2. Probar de otra forma (si la primera es evidente que no funciona) y
-3. Pedirle ayuda a otras personas, como pares o mentores.
+https://docs.google.com/presentation/d/e/2PACX-1vR3BtEcFKwYU76YgmBRcLh0uxG8xDz8bejma93_PyZOJhUHQd4a2LYg2YYTPiBAWKEjPsktTLcMIl_S/embed?start=false&loop=false&delayms=3000
 
 >Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
 Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
