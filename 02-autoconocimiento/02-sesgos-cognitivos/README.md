@@ -5,7 +5,7 @@
 * Duración: `5min`
 
 ***
-Intro de texto a videos
+(Aquí va un texto que introduce los videos)
 
 [Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
@@ -14,9 +14,10 @@ Intro de texto a videos
 [¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
 
 
-[Video Dani](xxx)
+[Video explicando qué son los sesgos cognitivos, cómo se vincula con el aprendizaje, etc.](xxx)
 
-Luego de ver este video, pregúntate lo siguiente:
+Luego de ver este video, pregúntate lo siguiente: (aquí ponemos preguntas de 
+reflexión, según el video)
 
 1. xxx
 2. xx
@@ -24,4 +25,4 @@ Luego de ver este video, pregúntate lo siguiente:
 
 > Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
 Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
-para hacer esta experiencia más enriquecedora. 
+para hacer esta experiencia más enriquecedora.

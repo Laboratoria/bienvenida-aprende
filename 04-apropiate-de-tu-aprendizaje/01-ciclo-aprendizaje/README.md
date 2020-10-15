@@ -9,7 +9,7 @@
 Para ser una aprendiz de por vida es básico apropiarte de tu aprendizaje
 continuo, tanto personal como profesionalmente:
 
-[Video Herman](xxxx)
+[Video Herman explicando con mayor profundidad el ciclo de aprendizaje](xxxx)
 
 ![Ciclo de aprendizaje](https://user-images.githubusercontent.com/36275285/82513666-46862a80-9ad9-11ea-8237-1f7a27cf4b71.png)
 
@@ -26,6 +26,7 @@ transitas en un contexto incierto. Algo que en Laboratoria le llamamos
 explorar un nuevo terreno y desarrollar una habilidad totalmente nueva.
 
 **¿Qué habilidad quisieras reforzar o desarrollar en tu siguiente ciclo de aprendizaje?**
+ (Aquí vamos a tener una dinámica más práctica)
 
 > Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
 Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
