@@ -2,7 +2,7 @@
 
 * Tipo: `video`
 * Formato: `self-paced`
-* Duración: `5min`
+* Duración: `7min`
 
 ***
 (Aquí va un texto que introduce los videos)
@@ -11,17 +11,15 @@
 
 ***Fuente:*** *El acertijo que puede mostrarte algo de ti mismo que quizás no sabías, BBC News Mundo, 8 de Marzo 2018*
 
-[¿Qué son los sesgos cognitivos y por qué son importantes?](https://www.brainvestigations.com/neurociencia/sesgo-cognitivo-negocios/)
+[Sesgos Cognitivos](https://vimeo.com/470341519)
 
-
-[Video explicando qué son los sesgos cognitivos, cómo se vincula con el aprendizaje, etc.](xxx)
-
-Luego de ver este video, pregúntate lo siguiente: (aquí ponemos preguntas de 
-reflexión, según el video)
-
-1. xxx
-2. xx
-3. xxx
+Luego de ver este video, pregúntate lo siguiente:
+1. ¿Cuáles son los estímulos de tu contexto actual que más influencian la forma
+en la que percibes nuevas situaciones o aprendizajes?
+2. ¿Qué sesgos cognitivos reconoces que frenan o potencian tu proceso de
+aprendizaje en el día a día?
+3. ¿Cómo puedes generar un nuevo hábito al reconocer y ser consciente de un
+sesgo cognitivo?
 
 > Siempre aprendemos más compartiendo nuestras reflexiones en comunidad.
 Anímate a compartir en la sección de comentarios tus ideas y aprendizajes
