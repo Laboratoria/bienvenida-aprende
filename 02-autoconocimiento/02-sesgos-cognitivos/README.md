@@ -5,7 +5,8 @@
 * Duración: `7min`
 
 ***
-(Aquí va un texto que introduce los videos)
+Qué son los sesgos cognitivos, cómo afectan nuestro aprendizaje y por qué son
+importantes: 
 
 [Acertijo - Sesgos Cognitivos](https://youtu.be/AYRg2DPj-FM)
 
