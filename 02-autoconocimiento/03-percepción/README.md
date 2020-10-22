@@ -7,7 +7,7 @@
 ***
 Qué es, y por qué es importante la percepción para el autoconocimiento:
 
-[Percepción](https://vimeo.com/467945659)
+[Percepción](https://vimeo.com/368066649)
 
 Luego de ver este video, pregúntate lo siguiente:
 

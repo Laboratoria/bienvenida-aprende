@@ -8,7 +8,7 @@
 Conoce qué es el Síndrome del Impostor, la importancia de reconocerlo y
 cómo frena nuestro camino de aprendizaje:
 
-[Síndrome del Impostor](https://vimeo.com/467946375)
+[Síndrome del Impostor](https://vimeo.com/368362316)
 
 Luego de ver este video, pregúntate lo siguiente:
 1. ¿Alguna vez has pensado que no eres lo suficientemente bueno o buena en algo?

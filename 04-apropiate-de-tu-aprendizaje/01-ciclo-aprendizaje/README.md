@@ -9,7 +9,7 @@
 Para ser una aprendiz de por vida es básico apropiarte de tu aprendizaje
 continuo, tanto personal como profesionalmente:
 
-[Video Herman explicando con mayor profundidad el ciclo de aprendizaje](xxxx)
+[Ciclo de aprendizaje](https://vimeo.com/471132006)
 
 ![Ciclo de aprendizaje](https://user-images.githubusercontent.com/36275285/82513666-46862a80-9ad9-11ea-8237-1f7a27cf4b71.png)
 
