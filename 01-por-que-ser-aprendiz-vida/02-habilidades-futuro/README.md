@@ -1,6 +1,6 @@
 # Habilidades del futuro
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
 * Duración: `17min`
 

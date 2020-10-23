@@ -1,6 +1,6 @@
 # Síndrome del impostor
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
 * Duración: `4min`
 

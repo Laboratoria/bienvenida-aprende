@@ -1,8 +1,8 @@
 # Aprendizaje como motor
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
-* Duración: `5min`
+* Duración: `6min`
 
 ***
 
