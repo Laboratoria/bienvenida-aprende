@@ -1,4 +1,4 @@
-# Síndrome del impostor
+# Síndrome del Impostor
 
 * Tipo: `video`
 * Formato: `self-paced`

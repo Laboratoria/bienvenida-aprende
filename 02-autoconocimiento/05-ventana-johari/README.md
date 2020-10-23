@@ -7,7 +7,7 @@
 ***
 Para continuar con el desarrollo del autoconocimiento, te presentaremos una
 herramienta para abordar el segundo eje: "¿Cuál es la mejor manera
-de desarrollarnos en lo interpersonal"?
+de desarrollarnos en lo interpersonal?"
 
 [Ventana de Johari](https://vimeo.com/467947430)
 
